@@ -1,0 +1,37 @@
+[20-Jul-2016 11:38:38 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:38:43 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:39:08 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:39:46 UTC] PHP Parse error:  syntax error, unexpected 'Illuminate' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:03 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:15 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:15 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:15 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:16 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:16 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:22 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:47 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:41:53 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 1
+[20-Jul-2016 11:52:57 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/UserController.php on line 1
+[20-Jul-2016 11:53:01 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/UserController.php on line 1
+[20-Jul-2016 11:53:14 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/UserController.php on line 1
+[20-Jul-2016 11:53:20 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/UserController.php on line 1
+[20-Jul-2016 11:53:42 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/UserController.php on line 1
+[20-Jul-2016 12:21:51 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 69
+[20-Jul-2016 13:39:55 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/verosion/public_html/producttester/app/Http/Controllers/UserController.php on line 1
+[20-Jul-2016 14:58:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Coupon' not found in /home/verosion/public_html/producttester/app/Http/Controllers/ProductController.php on line 38
+[20-Jul-2016 14:58:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Coupon' not found in /home/verosion/public_html/producttester/app/Http/Controllers/ProductController.php on line 38
+[20-Jul-2016 14:58:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Coupon' not found in /home/verosion/public_html/producttester/app/Http/Controllers/ProductController.php on line 38
+[20-Jul-2016 15:35:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/verosion/public_html/producttester/app/Http/Controllers/ProductController.php on line 54
+[21-Jul-2016 07:38:54 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 69
+[21-Jul-2016 13:37:56 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 120
+[21-Jul-2016 13:40:17 UTC] PHP Fatal error:  Cannot use App\Models\Review as Review because the name is already in use in /home/verosion/public_html/producttester/app/Http/Controllers/ProductController.php on line 6
+[22-Jul-2016 05:29:39 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/verosion/public_html/producttester/storage/framework/views/2f408b34757ada82aa6a7708c3f59d9f2e2d1074.php on line 36
+[26-Jul-2016 05:17:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/producttester/app/Http/Controllers/UserController.php on line 265
+[27-Jul-2016 15:46:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 89
+[27-Jul-2016 15:48:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 89
+[27-Jul-2016 16:05:51 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 273
+[27-Jul-2016 16:05:58 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 273
+[27-Jul-2016 16:28:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 438
+[27-Jul-2016 16:39:01 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 273
+[27-Jul-2016 16:39:41 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/verosion/public_html/producttester/app/Http/Controllers/PromoController.php on line 273
+[27-Jul-2016 16:57:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/verosion/public_html/producttester/app/Http/Controllers/ProductController.php on line 187
